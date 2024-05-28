@@ -1,5 +1,9 @@
+import About from './about/page.jsx'
 function Home() {
-  return (<div>Home</div>
+  return (
+  <div>
+    <About/>
+  </div>
   );
 }
 
